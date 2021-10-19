@@ -1,0 +1,756 @@
+[
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42339",
+        "time": "17:15",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Sin Tiempo Para Morir",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt2382320.jpg",
+            "year": "2021",
+            "genre": "Action, Adventure, Thriller",
+            "duration": "163 min",
+            "director": "Cary Joji Fukunaga",
+            "cast": [
+                "Daniel Craig",
+                "Rami Malek",
+                "Ralph Fiennes",
+                "Naomie Harris",
+                "Ben Whishaw",
+                "Jeffrey Wright",
+                "Léa Seydoux",
+                "Ana de Armas"
+            ],
+            "original_language": "English",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42338",
+        "time": "20:30",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Sin Tiempo Para Morir",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt2382320.jpg",
+            "year": "2021",
+            "genre": "Action, Adventure, Thriller",
+            "duration": "163 min",
+            "director": "Cary Joji Fukunaga",
+            "cast": [
+                "Daniel Craig",
+                "Rami Malek",
+                "Ralph Fiennes",
+                "Naomie Harris",
+                "Ben Whishaw",
+                "Jeffrey Wright",
+                "Léa Seydoux",
+                "Ana de Armas"
+            ],
+            "original_language": "English",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42335",
+        "time": "21:00",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Dune",
+            "poster": "https://www.cinesa.es/Manager/Peliculas/dune/cartelera.jpg",
+            "year": "2021",
+            "genre": "Science Fiction",
+            "duration": "135 mins",
+            "director": "Denis Villeneuve",
+            "cast": [
+                "Stellan Skarsgård",
+                "Timothée Chalamet",
+                "Oscar Isaac",
+                "Jason Momoa",
+                "Rebecca Ferguson",
+                "Zendaya"
+            ],
+            "original_language": "English",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42278",
+        "time": "21:20",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Madres Paralelas",
+            "poster": "https://bizcochito.es/Films/Poster/tt12618926.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "122 mins",
+            "director": "Pedro Almodóvar",
+            "cast": [
+                "Penélope Cruz",
+                "Aitana Sánchez-Gijón",
+                "Israel Elejalde",
+                "Milena Smit",
+                "Rossy de Palma",
+                "Julieta Serrano",
+                "Daniela Santiago"
+            ],
+            "original_language": "Spanish",
+            "language": "VOSI"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42323",
+        "time": "21:25",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Benedetta",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt6823148.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "127 mins",
+            "director": "Paul Verhoeven",
+            "cast": [
+                "Virginie Efira",
+                "Lambert Wilson",
+                "Daphne Patakia",
+                "Charlotte Rampling",
+                "Olivier Rabourdin",
+                "Clotilde Courau",
+                "Louise Chevillotte",
+                "Hervé Pierre"
+            ],
+            "original_language": "French",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42308",
+        "time": "21:30",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Las leyes de la frontera",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt11892272.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "129 min",
+            "director": "Daniel Monzón",
+            "cast": [
+                "Marcos Ruiz",
+                "Begoña Vargas",
+                "Chechu Salgado",
+                "Pep Tosar",
+                "Daniel Ibañez",
+                "Guillermo Lasheras",
+                "Jorge Aparicio",
+                "Carlos Oviedo"
+            ],
+            "original_language": "Spanish",
+            "language": "Spanish"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42321",
+        "time": "16:00",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Dune",
+            "poster": "https://www.cinesa.es/Manager/Peliculas/dune/cartelera.jpg",
+            "year": "2021",
+            "genre": "Science Fiction",
+            "duration": "135 mins",
+            "director": "Denis Villeneuve",
+            "cast": [
+                "Stellan Skarsgård",
+                "Timothée Chalamet",
+                "Oscar Isaac",
+                "Jason Momoa",
+                "Rebecca Ferguson",
+                "Zendaya"
+            ],
+            "original_language": "English",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42333",
+        "time": "16:00",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Mediterráneo",
+            "poster": "https://www.cinesa.es/Manager/Peliculas/mediterrneo/cartelera.jpg",
+            "year": "2021",
+            "genre": "Documentary",
+            "duration": "112 min",
+            "director": "Marcel Barrena",
+            "cast": [
+                "Àlex Monner",
+                "Anna Castillo",
+                "Dani Rovira",
+                "Eduard Fernández",
+                "Melika Foroutan",
+                "Sergi López"
+            ],
+            "original_language": "Spanish",
+            "language": "Spanish"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42276",
+        "time": "16:10",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Madres Paralelas",
+            "poster": "https://bizcochito.es/Films/Poster/tt12618926.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "122 mins",
+            "director": "Pedro Almodóvar",
+            "cast": [
+                "Penélope Cruz",
+                "Aitana Sánchez-Gijón",
+                "Israel Elejalde",
+                "Milena Smit",
+                "Rossy de Palma",
+                "Julieta Serrano",
+                "Daniela Santiago"
+            ],
+            "original_language": "Spanish",
+            "language": "VOSI"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42277",
+        "time": "16:10",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Madres Paralelas",
+            "poster": "https://bizcochito.es/Films/Poster/tt12618926.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "122 mins",
+            "director": "Pedro Almodóvar",
+            "cast": [
+                "Penélope Cruz",
+                "Aitana Sánchez-Gijón",
+                "Israel Elejalde",
+                "Milena Smit",
+                "Rossy de Palma",
+                "Julieta Serrano",
+                "Daniela Santiago"
+            ],
+            "original_language": "Spanish",
+            "language": "VOSI"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42334",
+        "time": "18:25",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Maixabel",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt14077696.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "115 min",
+            "director": "Icíar Bollaín",
+            "cast": [
+                "Blanca Portillo",
+                "Luis Tosar",
+                "Urko Olazabal",
+                "María Cerezuela",
+                "Bruno Sevilla"
+            ],
+            "original_language": "Spanish",
+            "language": "Spanish"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42345",
+        "time": "19:05",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Madres Paralelas",
+            "poster": "https://bizcochito.es/Films/Poster/tt12618926.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "122 mins",
+            "director": "Pedro Almodóvar",
+            "cast": [
+                "Penélope Cruz",
+                "Aitana Sánchez-Gijón",
+                "Israel Elejalde",
+                "Milena Smit",
+                "Rossy de Palma",
+                "Julieta Serrano",
+                "Daniela Santiago"
+            ],
+            "original_language": "Spanish",
+            "language": "VOSI"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42322",
+        "time": "19:05",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Titane",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt10944760.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "90 mins",
+            "director": "Bénédicte Kermadec, Julia Ducournau",
+            "cast": [
+                "Vincent Lindon",
+                "Dominique Frot",
+                "Agathe Rousselle",
+                "Nathalie Boyer",
+                "Myriem Akeddiou",
+                "Théo Hellermann",
+                "Anaïs Fabre",
+                "Mehdi Rahim-Silvioli"
+            ],
+            "original_language": "French",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42339",
+        "time": "17:15",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Sin Tiempo Para Morir",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt2382320.jpg",
+            "year": "2021",
+            "genre": "Action, Adventure, Thriller",
+            "duration": "163 min",
+            "director": "Cary Joji Fukunaga",
+            "cast": [
+                "Daniel Craig",
+                "Rami Malek",
+                "Ralph Fiennes",
+                "Naomie Harris",
+                "Ben Whishaw",
+                "Jeffrey Wright",
+                "Léa Seydoux",
+                "Ana de Armas"
+            ],
+            "original_language": "English",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42338",
+        "time": "20:30",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Sin Tiempo Para Morir",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt2382320.jpg",
+            "year": "2021",
+            "genre": "Action, Adventure, Thriller",
+            "duration": "163 min",
+            "director": "Cary Joji Fukunaga",
+            "cast": [
+                "Daniel Craig",
+                "Rami Malek",
+                "Ralph Fiennes",
+                "Naomie Harris",
+                "Ben Whishaw",
+                "Jeffrey Wright",
+                "Léa Seydoux",
+                "Ana de Armas"
+            ],
+            "original_language": "English",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42335",
+        "time": "21:00",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Dune",
+            "poster": "https://www.cinesa.es/Manager/Peliculas/dune/cartelera.jpg",
+            "year": "2021",
+            "genre": "Science Fiction",
+            "duration": "135 mins",
+            "director": "Denis Villeneuve",
+            "cast": [
+                "Stellan Skarsgård",
+                "Timothée Chalamet",
+                "Oscar Isaac",
+                "Jason Momoa",
+                "Rebecca Ferguson",
+                "Zendaya"
+            ],
+            "original_language": "English",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42278",
+        "time": "21:20",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Madres Paralelas",
+            "poster": "https://bizcochito.es/Films/Poster/tt12618926.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "122 mins",
+            "director": "Pedro Almodóvar",
+            "cast": [
+                "Penélope Cruz",
+                "Aitana Sánchez-Gijón",
+                "Israel Elejalde",
+                "Milena Smit",
+                "Rossy de Palma",
+                "Julieta Serrano",
+                "Daniela Santiago"
+            ],
+            "original_language": "Spanish",
+            "language": "VOSI"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42323",
+        "time": "21:25",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Benedetta",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt6823148.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "127 mins",
+            "director": "Paul Verhoeven",
+            "cast": [
+                "Virginie Efira",
+                "Lambert Wilson",
+                "Daphne Patakia",
+                "Charlotte Rampling",
+                "Olivier Rabourdin",
+                "Clotilde Courau",
+                "Louise Chevillotte",
+                "Hervé Pierre"
+            ],
+            "original_language": "French",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42308",
+        "time": "21:30",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Las leyes de la frontera",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt11892272.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "129 min",
+            "director": "Daniel Monzón",
+            "cast": [
+                "Marcos Ruiz",
+                "Begoña Vargas",
+                "Chechu Salgado",
+                "Pep Tosar",
+                "Daniel Ibañez",
+                "Guillermo Lasheras",
+                "Jorge Aparicio",
+                "Carlos Oviedo"
+            ],
+            "original_language": "Spanish",
+            "language": "Spanish"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42321",
+        "time": "16:00",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Dune",
+            "poster": "https://www.cinesa.es/Manager/Peliculas/dune/cartelera.jpg",
+            "year": "2021",
+            "genre": "Science Fiction",
+            "duration": "135 mins",
+            "director": "Denis Villeneuve",
+            "cast": [
+                "Stellan Skarsgård",
+                "Timothée Chalamet",
+                "Oscar Isaac",
+                "Jason Momoa",
+                "Rebecca Ferguson",
+                "Zendaya"
+            ],
+            "original_language": "English",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42333",
+        "time": "16:00",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Mediterráneo",
+            "poster": "https://www.cinesa.es/Manager/Peliculas/mediterrneo/cartelera.jpg",
+            "year": "2021",
+            "genre": "Documentary",
+            "duration": "112 min",
+            "director": "Marcel Barrena",
+            "cast": [
+                "Àlex Monner",
+                "Anna Castillo",
+                "Dani Rovira",
+                "Eduard Fernández",
+                "Melika Foroutan",
+                "Sergi López"
+            ],
+            "original_language": "Spanish",
+            "language": "Spanish"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42276",
+        "time": "16:10",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Madres Paralelas",
+            "poster": "https://bizcochito.es/Films/Poster/tt12618926.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "122 mins",
+            "director": "Pedro Almodóvar",
+            "cast": [
+                "Penélope Cruz",
+                "Aitana Sánchez-Gijón",
+                "Israel Elejalde",
+                "Milena Smit",
+                "Rossy de Palma",
+                "Julieta Serrano",
+                "Daniela Santiago"
+            ],
+            "original_language": "Spanish",
+            "language": "VOSI"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42277",
+        "time": "16:10",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Madres Paralelas",
+            "poster": "https://bizcochito.es/Films/Poster/tt12618926.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "122 mins",
+            "director": "Pedro Almodóvar",
+            "cast": [
+                "Penélope Cruz",
+                "Aitana Sánchez-Gijón",
+                "Israel Elejalde",
+                "Milena Smit",
+                "Rossy de Palma",
+                "Julieta Serrano",
+                "Daniela Santiago"
+            ],
+            "original_language": "Spanish",
+            "language": "VOSI"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42334",
+        "time": "18:25",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Maixabel",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt14077696.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "115 min",
+            "director": "Icíar Bollaín",
+            "cast": [
+                "Blanca Portillo",
+                "Luis Tosar",
+                "Urko Olazabal",
+                "María Cerezuela",
+                "Bruno Sevilla"
+            ],
+            "original_language": "Spanish",
+            "language": "Spanish"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42345",
+        "time": "19:05",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Madres Paralelas",
+            "poster": "https://bizcochito.es/Films/Poster/tt12618926.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "122 mins",
+            "director": "Pedro Almodóvar",
+            "cast": [
+                "Penélope Cruz",
+                "Aitana Sánchez-Gijón",
+                "Israel Elejalde",
+                "Milena Smit",
+                "Rossy de Palma",
+                "Julieta Serrano",
+                "Daniela Santiago"
+            ],
+            "original_language": "Spanish",
+            "language": "VOSI"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    },
+    {
+        "link": "https://entrades.grupbalana.com/aribaumulticines/?p=tickets&perfCode=42322",
+        "time": "19:05",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Titane",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt10944760.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "90 mins",
+            "director": "Bénédicte Kermadec, Julia Ducournau",
+            "cast": [
+                "Vincent Lindon",
+                "Dominique Frot",
+                "Agathe Rousselle",
+                "Nathalie Boyer",
+                "Myriem Akeddiou",
+                "Théo Hellermann",
+                "Anaïs Fabre",
+                "Mehdi Rahim-Silvioli"
+            ],
+            "original_language": "French",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Aribau Multicines",
+            "barri": "Eixample",
+            "address": "Carrer d'Aribau, 8, 10, 08011 Barcelona"
+        }
+    }
+]

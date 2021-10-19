@@ -1,0 +1,516 @@
+[
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23220&language=CAT",
+        "time": "18:15",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Benedetta",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt6823148.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "127 mins",
+            "director": "Paul Verhoeven",
+            "cast": [
+                "Virginie Efira",
+                "Lambert Wilson",
+                "Daphne Patakia",
+                "Charlotte Rampling",
+                "Olivier Rabourdin",
+                "Clotilde Courau",
+                "Louise Chevillotte",
+                "Hervé Pierre"
+            ],
+            "original_language": "French",
+            "language": "Dubbed Spanish"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23227&language=CAT",
+        "time": "18:15",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Benedetta",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt6823148.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "127 mins",
+            "director": "Paul Verhoeven",
+            "cast": [
+                "Virginie Efira",
+                "Lambert Wilson",
+                "Daphne Patakia",
+                "Charlotte Rampling",
+                "Olivier Rabourdin",
+                "Clotilde Courau",
+                "Louise Chevillotte",
+                "Hervé Pierre"
+            ],
+            "original_language": "French",
+            "language": "Dubbed Spanish"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23219&language=CAT",
+        "time": "16:00",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Benedetta",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt6823148.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "127 mins",
+            "director": "Paul Verhoeven",
+            "cast": [
+                "Virginie Efira",
+                "Lambert Wilson",
+                "Daphne Patakia",
+                "Charlotte Rampling",
+                "Olivier Rabourdin",
+                "Clotilde Courau",
+                "Louise Chevillotte",
+                "Hervé Pierre"
+            ],
+            "original_language": "French",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23221&language=CAT",
+        "time": "20:30",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Benedetta",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt6823148.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "127 mins",
+            "director": "Paul Verhoeven",
+            "cast": [
+                "Virginie Efira",
+                "Lambert Wilson",
+                "Daphne Patakia",
+                "Charlotte Rampling",
+                "Olivier Rabourdin",
+                "Clotilde Courau",
+                "Louise Chevillotte",
+                "Hervé Pierre"
+            ],
+            "original_language": "French",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23228&language=CAT",
+        "time": "20:30",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Benedetta",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt6823148.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "127 mins",
+            "director": "Paul Verhoeven",
+            "cast": [
+                "Virginie Efira",
+                "Lambert Wilson",
+                "Daphne Patakia",
+                "Charlotte Rampling",
+                "Olivier Rabourdin",
+                "Clotilde Courau",
+                "Louise Chevillotte",
+                "Hervé Pierre"
+            ],
+            "original_language": "French",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23217&language=CAT",
+        "time": "17:45",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Mediterráneo",
+            "poster": "https://www.cinesa.es/Manager/Peliculas/mediterrneo/cartelera.jpg",
+            "year": "2021",
+            "genre": "Drama, Action, Thriller",
+            "duration": "100 min",
+            "director": "Marcel Barrena",
+            "cast": [
+                "Àlex Monner",
+                "Anna Castillo",
+                "Dani Rovira",
+                "Eduard Fernández",
+                "Melika Foroutan",
+                "Sergi López"
+            ],
+            "original_language": "Spanish",
+            "language": "Spanish"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23218&language=CAT",
+        "time": "20:00",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Mediterráneo",
+            "poster": "https://www.cinesa.es/Manager/Peliculas/mediterrneo/cartelera.jpg",
+            "year": "2021",
+            "genre": "Drama, Action, Thriller",
+            "duration": "100 min",
+            "director": "Marcel Barrena",
+            "cast": [
+                "Àlex Monner",
+                "Anna Castillo",
+                "Dani Rovira",
+                "Eduard Fernández",
+                "Melika Foroutan",
+                "Sergi López"
+            ],
+            "original_language": "Spanish",
+            "language": "Spanish"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23226&language=CAT",
+        "time": "16:00",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Mediterráneo",
+            "poster": "https://www.cinesa.es/Manager/Peliculas/mediterrneo/cartelera.jpg",
+            "year": "2021",
+            "genre": "Drama, Action, Thriller",
+            "duration": "100 min",
+            "director": "Marcel Barrena",
+            "cast": [
+                "Àlex Monner",
+                "Anna Castillo",
+                "Dani Rovira",
+                "Eduard Fernández",
+                "Melika Foroutan",
+                "Sergi López"
+            ],
+            "original_language": "Spanish",
+            "language": "Spanish"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23225&language=CAT",
+        "time": "20:30",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Mediterráneo",
+            "poster": "https://www.cinesa.es/Manager/Peliculas/mediterrneo/cartelera.jpg",
+            "year": "2021",
+            "genre": "Drama, Action, Thriller",
+            "duration": "100 min",
+            "director": "Marcel Barrena",
+            "cast": [
+                "Àlex Monner",
+                "Anna Castillo",
+                "Dani Rovira",
+                "Eduard Fernández",
+                "Melika Foroutan",
+                "Sergi López"
+            ],
+            "original_language": "Spanish",
+            "language": "Spanish"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23222&language=CAT",
+        "time": "17:30",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Maixabel",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt14077696.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "122 mins",
+            "director": "Icíar Bollaín",
+            "cast": [
+                "Blanca Portillo",
+                "Luis Tosar",
+                "Urko Olazabal",
+                "María Cerezuela",
+                "Bruno Sevilla"
+            ],
+            "original_language": "Spanish",
+            "language": "Spanish"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23223&language=CAT",
+        "time": "20:00",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Maixabel",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt14077696.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "122 mins",
+            "director": "Icíar Bollaín",
+            "cast": [
+                "Blanca Portillo",
+                "Luis Tosar",
+                "Urko Olazabal",
+                "María Cerezuela",
+                "Bruno Sevilla"
+            ],
+            "original_language": "Spanish",
+            "language": "Spanish"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23224&language=CAT",
+        "time": "17:00",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Maixabel",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt14077696.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "122 mins",
+            "director": "Icíar Bollaín",
+            "cast": [
+                "Blanca Portillo",
+                "Luis Tosar",
+                "Urko Olazabal",
+                "María Cerezuela",
+                "Bruno Sevilla"
+            ],
+            "original_language": "Spanish",
+            "language": "Spanish"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23229&language=CAT",
+        "time": "22:00",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Maixabel",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt14077696.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "122 mins",
+            "director": "Icíar Bollaín",
+            "cast": [
+                "Blanca Portillo",
+                "Luis Tosar",
+                "Urko Olazabal",
+                "María Cerezuela",
+                "Bruno Sevilla"
+            ],
+            "original_language": "Spanish",
+            "language": "Spanish"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23216&language=CAT",
+        "time": "16:00",
+        "date": "2021-10-13",
+        "film": {
+            "title": "Chavalas",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt10835642.jpg",
+            "year": "2021",
+            "genre": "Drama",
+            "duration": "91 min",
+            "director": "Carol Rodríguez Colás",
+            "cast": [
+                "Vicky Luengo",
+                "Carolina Yuste",
+                "Elisabet Casanovas",
+                "Àngela Cervantes",
+                "Ana Fernández",
+                "José Mota",
+                "Mario Zorrilla",
+                "Cristina Plazas"
+            ],
+            "original_language": "Spanish",
+            "language": "Spanish"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=22980&language=CAT",
+        "time": "16:00",
+        "date": "2021-10-14",
+        "film": {
+            "title": "Lucia di Lammermoor (Wiener Staatsoper)",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt63846.jpg",
+            "year": "2021",
+            "genre": "Opera",
+            "duration": "151 min",
+            "director": "Evelino Pidó",
+            "cast": [
+                "George Petean",
+                "Olga Peretyatko",
+                "Juan Diego Flórez"
+            ],
+            "original_language": "French",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23165&language=CAT",
+        "time": "17:00",
+        "date": "2021-10-16",
+        "film": {
+            "title": "Canciones de horror",
+            "poster": "https://girona.admit-one.eu/filmimages/small/55711.jpg",
+            "year": "2021",
+            "genre": "Suspense",
+            "duration": "151 min",
+            "director": "Albert R. Casellas",
+            "cast": [],
+            "original_language": "Catalan",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23230&language=CAT",
+        "time": "20:00",
+        "date": "2021-10-20",
+        "film": {
+            "title": "The Return",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt14030566.jpg",
+            "year": "2021",
+            "genre": "Documentary",
+            "duration": "90 min",
+            "director": "Alba Sotorra",
+            "cast": [],
+            "original_language": "Arabic",
+            "language": "VOSC"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23231&language=CAT",
+        "time": "20:00",
+        "date": "2021-10-21",
+        "film": {
+            "title": "The Return",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt14030566.jpg",
+            "year": "2021",
+            "genre": "Documentary",
+            "duration": "90 min",
+            "director": "Alba Sotorra",
+            "cast": [],
+            "original_language": "Arabic",
+            "language": "VOSC"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    },
+    {
+        "link": "https://girona.admit-one.eu/?p=tickets&perfCode=&perfCode=23082&language=CAT",
+        "time": "16:00",
+        "date": "2021-11-18",
+        "film": {
+            "title": "Faust (Opera de París)",
+            "poster": "https://www.bizcochito.es/Films/Poster/tt63971.jpg",
+            "year": "2021",
+            "genre": "Opera",
+            "duration": "205 min",
+            "director": "Lorenzo Viotti",
+            "cast": [
+                "Benjamin Bernheim",
+                "Christian Van Horn",
+                "Ermonela Jaho",
+                "Florian Sempey"
+            ],
+            "original_language": "French",
+            "language": "VOSE"
+        },
+        "cinema": {
+            "name": "Cinemes Girona",
+            "barri": "Eixample",
+            "address": "Carrer de Girona, 175, 08037 Barcelona"
+        }
+    }
+]
